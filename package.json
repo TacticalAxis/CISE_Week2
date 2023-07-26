@@ -1,0 +1,11 @@
+{
+  "name": "cise_week2",
+  "version": "1.0.0",
+  "description": "CISE Week 2 Worksheet",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan",
+  "license": "ISC"
+}
